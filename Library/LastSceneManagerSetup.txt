@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/fps platformer.unity
+  isLoaded: 1
+  isActive: 1
